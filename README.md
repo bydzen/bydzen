@@ -9,7 +9,7 @@
 - 💼 &nbsp; WordPress Developer and Technical Support.
 - 🌱 &nbsp; Enthusiast in UI/UX and Web Design.
 - 🎸 &nbsp; Guitarist Electric ESP. Jazz.
-- 🍵 &nbsp; I belive, a perfect cup of tea can be the ultimate solution for any stress. 
+- 🍵 &nbsp; A perfect cup of tea can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
