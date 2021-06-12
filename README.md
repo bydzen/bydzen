@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently work as Hosting Manager at Rayatiga.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤯 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Computer Science and web development.
 - 💼 &nbsp; WordPress Developer and Technical Support.
 - 🌱 &nbsp; Enthusiast in UI/UX and Web Design.
