@@ -3,13 +3,13 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently work as Hosting Manager at Rayatiga.
-- 🤯 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Studying Computer Science and web development.
+- 🔭 &nbsp; Work as Hosting Manager at Rayatiga.
+- 🏫 &nbsp; Studying at Telkom University!
+- 🤯 &nbsp; Studying Computer Science and web development.
 - 💼 &nbsp; WordPress Developer and Technical Support.
 - 🌱 &nbsp; Enthusiast in UI/UX and Web Design.
 - 🎸 &nbsp; Guitarist Electric ESP. Jazz.
-- 🍵 &nbsp; A perfect cup of tea can be the ultimate solution for any stress. 
+- 🍵 &nbsp; A perfect cup of tea. 
 
 <h3>🛠 Tech Stack</h3>
 
