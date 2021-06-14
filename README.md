@@ -25,7 +25,7 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bydzen&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/bydzen/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bydzen&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/bydzen?tab=repositories)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
