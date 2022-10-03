@@ -3,21 +3,21 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Work as Hosting Manager at Rayatiga.
-- 🏫 &nbsp; Studying at Telkom University!
-- 🤯 &nbsp; Studying Computer Science and web development.
-- 💼 &nbsp; WordPress Developer and Technical Support.
-- 🌱 &nbsp; Enthusiast in UI/UX and Web Design.
-- 🎸 &nbsp; Guitarist Electric ESP. Jazz.
-- 🍵 &nbsp; A perfect cup of tea. 
+- 🔭 &nbsp; Agency Founder at Rayatiga.
+- 🏫 &nbsp; College at Telkom University.
+- 🤯 &nbsp; Studying Computer Science and Cyber Security & Digital Forensics.
+- 💼 &nbsp; WordPress, Web Developer, and Technical Support.
+- 🌱 &nbsp; Enthusiast in Web and Cloud Computing.
+- 🎸 &nbsp; Guitarist Electric esp. Jazz.
+- 🥤 &nbsp; A perfect cup of any healthy juice. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C++ | GoLang | C  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Flutter 
-- 🛢 &nbsp; MySQL | XAMPP | Firebase
-- 🔧 &nbsp; Visual Studio code | Git | WinSCP
-- 🖥 &nbsp; Figma | Adobe Xd | Kdenlive
+- 💻 &nbsp; Go | Java | C++ 
+- 🌐 &nbsp; HTML5 | JavaScript | WordPress
+- 🛢 &nbsp; PostgreSQL | MySQL | Cloud Big Table
+- 🔧 &nbsp; VS Code | Git | GCP & AWS
+- 🖥 &nbsp; Figma | OBS Studio | Camtasia
 
 <br>
 
