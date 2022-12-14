@@ -6,18 +6,18 @@
 - 🔭 &nbsp; Agency Founder at Rayatiga.
 - 🏫 &nbsp; College at Telkom University.
 - 🤯 &nbsp; Studying Computer Science and Cyber Security & Digital Forensics.
-- 💼 &nbsp; WordPress, Web Developer, and Technical Support.
+- 💼 &nbsp; WordPress, Web Developer, and Technology Enthusiast.
 - 🌱 &nbsp; Enthusiast in Web and Cloud Computing.
 - 🎸 &nbsp; Guitarist Electric esp. Jazz.
 - 🥤 &nbsp; A perfect cup of any healthy juice. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Go | Java | C++ 
-- 🌐 &nbsp; HTML5 | JavaScript | WordPress
-- 🛢 &nbsp; PostgreSQL | MySQL | Cloud Big Table
-- 🔧 &nbsp; VS Code | Git | GCP & AWS
-- 🖥 &nbsp; Figma | OBS Studio | Camtasia
+- 💻 &nbsp; Go | C++ | Java 
+- 🌐 &nbsp; HTML5 | WordPress |JavaScript |
+- 🛢 &nbsp; MySQL/MariaDB | PostgreSQL | MongoDB
+- 🔧 &nbsp; VS Code | Git | GCP/AWS
+- 🖥 &nbsp; Figma | CorelDRAW | KDenlive
 
 <br>
 
