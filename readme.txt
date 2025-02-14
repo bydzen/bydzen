@@ -1,20 +1,9 @@
-Greetings. I'm Sultan Kautsar, catalyst of innovation in the realm of tech and 
-commerce. My optimism is a beacon that illuminates even the darkest corners of 
-the digital labyrinth.
+Greetings, I'm Sultan Kautsar (sultankautsar.com), a passionate innovator at the intersection of technology and business. With an optimistic approach, I navigate the ever-evolving digital landscape, turning ideas into impactful solutions.
 
-I've founded Rayatiga, a sanctuary for static web development, where pixels 
-dance to creative command. Landing pages, portfolios, and digital identities 
-are my canvas, and I wield the brushstrokes of code with finesse.
+I founded Rayatiga (rayatiga.com) as a dedicated space for static web development, specializing in landing pages, portfolios, and digital identities. With a keen eye for design and a strong technical foundation, I create seamless, engaging digital experiences.
 
-Telkom University provided me with a strong foundation for my academic success. 
-I earned a cum laude degree with a GPA of 3.74, which I attribute to hard work 
-and perseverance.
+My academic journey at Telkom University (telkomuniversity.ac.id) laid the groundwork for my success. Graduating cum laude with a GPA of 3.74, I attribute my achievements to perseverance, discipline, and a deep curiosity for learning.
 
-Breef Studio served as a valuable stepping stone in my career, where I honed my 
-web development skills as a full-time developer. While I appreciate the 
-experience, I'm eager to take on new challenges and explore further 
-opportunities.
+Professionally, my time at Breef Studio (breefstudio.com) was instrumental in refining my web development expertise. As a full-time developer, I gained invaluable experience in crafting high-quality digital solutions. Now, I'm eager to embrace new challenges and expand my horizons.
 
-I've embarked on several exciting resources that showcase my ability to craft 
-visually stunning and user-friendly digital experiences.
-
+Beyond my professional endeavors, I continuously explore innovative projects that blend functionality with aesthetic excellence, striving to deliver user-friendly and visually compelling digital experiences.
